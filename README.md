@@ -52,16 +52,6 @@
 
 ---
 
-## 📸 Screenshots
-
-> Upload these manually via GitHub or drag here:
-- Dashboard View
-- Full Job Board (Light & Dark Theme)
-- Add/Edit Modal
-- Settings Panel with Color Picker
-
----
-
 ## ⚙️ Tech Stack
 
 - **Frontend:** React + TypeScript + Vite
